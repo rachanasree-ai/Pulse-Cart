@@ -1,0 +1,521 @@
+ticket_id,customer_id,order_id,created_at,ticket_type,priority,raw_message,resolved
+70000,10321,51230,2025-12-19,return,low,Want to return 51230 — item damaged. Confirmation to priya.shah321@yahoo.com please. My number is +1-995-822-1877.,0
+70001,10850,53361,2026-03-12,delivery,medium,Package for order 53361 still not here. Reach me at +1-335-991-8538 or noah.ortiz850@yahoo.com. Tracking looks stuck.,1
+70002,10540,52080,2025-11-21,delivery,medium,Package for order 52080 still not here. Reach me at +1-509-856-6229 or dev.kim540@yahoo.com. Tracking looks stuck.,1
+70003,10765,52986,2026-05-18,billing,medium,Double charged for 52986. Last four of card on file. Mail receipt to grace.patel765@gmail.com. Phone +1-274-666-6528.,1
+70004,10121,50475,2026-02-21,billing,medium,Double charged for 50475. Last four of card on file. Mail receipt to owen.khan121@yahoo.com. Phone +1-430-627-6266. Also CC ops+10121@pulsecart.com.,1
+70005,10843,53325,2026-06-01,delivery,low,Package for order 53325 still not here. Reach me at +1-728-738-8733 or maya.bennett843@pulsecart-mail.com. Tracking looks stuck.,1
+70006,10214,50837,2025-11-30,,low,Package for order 50837 still not here. Reach me at +1-314-300-6822 or marcus.ortiz214@outlook.com. Tracking looks stuck.,0
+70007,10397,51520,2025-12-13,delivery,high,Package for order 51520 still not here. Reach me at +1-258-518-7072 or imani.bennett397@outlook.com. Tracking looks stuck.,1
+70008,10080,50321,2025-11-28,delivery,low,Package for order 50321 still not here. Reach me at +1-874-708-4283 or diego.patel80@yahoo.com. Tracking looks stuck.,1
+70009,10042,50155,2026-01-17,delivery,low,ETA missed on 50155. I already emailed elena.patel42@yahoo.com. Need a callback at +1-373-258-8376.,1
+70010,10603,52324,2026-08-03,return,medium,Want to return 52324 — item damaged. Confirmation to chris.silva603@outlook.com please. My number is +1-779-278-3477.,1
+70011,10711,52787,2025-10-13,account,low,Cannot reset password. Account email imani.ortiz711@pulsecart-mail.com. I also use +1-800-305-4650. Ref 52787.,0
+70012,10665,52583,2025-09-04,delivery,medium,Package for order 52583 still not here. Reach me at +1-449-887-3977 or owen.walker665@pulsecart-mail.com. Tracking looks stuck.,1
+70013,10570,52187,2025-04-13,product_defect,medium,FitBand 3 from order 52187 will not sync. Serial looks like SN-52187. Write to fatima.shah570@yahoo.com.,1
+70014,10506,51949,2026-08-06,product_defect,medium,FitBand 3 from order 51949 will not sync. Serial looks like SN-51949. Write to grace.khan506@gmail.com.,1
+70015,10426,51628,2026-04-29,product_defect,low,Defect on 51628. Photo attached later. +1-282-342-4420 after 6pm. dev.khan426@yahoo.com,1
+70016,10409,51573,2025-12-14,account,medium,Cannot reset password. Account email diego.morgan409@outlook.com. I also use +1-380-325-5555. Ref 51573. Also CC ops+10409@pulsecart.com.,0
+70017,10285,51078,2026-02-09,return,low,Want to return 51078 — item damaged. Confirmation to owen.patel285@gmail.com please. My number is +1-911-669-7539. Also CC ops+10285@pulsecart.com.,0
+70018,10405,51558,2026-02-25,account,medium,Merge my accounts if possible. Primary noah.foster405@outlook.com. Other phone +1-539-422-7404. Recent order 51558. Also CC ops+10405@pulsecart.com.,1
+70019,10838,53299,2026-05-15,product_defect,low,FitBand 3 from order 53299 will not sync. Serial looks like SN-53299. Write to marcus.kim838@outlook.com.,1
+70020,10792,53120,2026-03-15,account,low,Merge my accounts if possible. Primary chris.silva792@pulsecart-mail.com. Other phone +1-345-659-2583. Recent order 53120.,1
+70021,10197,50793,2026-04-23,account,high,Cannot reset password. Account email liam.walker197@pulsecart-mail.com. I also use +1-845-953-4901. Ref 50793.,1
+70022,10766,52990,2026-02-22,delivery,low,Package for order 52990 still not here. Reach me at +1-741-697-7447 or ava.khan766@outlook.com. Tracking looks stuck.,1
+70023,10667,52592,2026-04-08,,medium,Defect on 52592. Photo attached later. 868-987-7158 after 6pm. sofia.khan667@gmail.com,0
+70024,10054,50202,2026-03-14,return,low,Return request order#50202. Kitchen item leaked. Contact: mia.nguyen54@pulsecart-mail.com / +1-762-204-9877,1
+70025,10803,53161,2026-04-06,delivery,high,Package for order 53161 still not here. Reach me at +1-638-481-8624 or dev.hughes803@pulsecart-mail.com. Tracking looks stuck.,0
+70026,10337,51283,2025-06-26,delivery,low,Package for order 51283 still not here. Reach me at +1-369-877-4837 or maya.hughes337@pulsecart-mail.com. Tracking looks stuck.,1
+70027,10636,52460,2026-06-21,return,low,Want to return 52460 — item damaged. Confirmation to mateo.cole636@pulsecart-mail.com please. My number is 713-555-3284.,0
+70028,10664,52575,2026-05-26,account,medium,Merge my accounts if possible. Primary sara.rao664@gmail.com. Other phone +1-893-455-1280. Recent order 52575.,1
+70029,10665,52585,2025-06-21,account,low,Cannot reset password. Account email owen.walker665@pulsecart-mail.com. I also use +1-449-887-3977. Ref 52585.,1
+70030,10721,52811,2026-04-24,account,high,Merge my accounts if possible. Primary fatima.silva721@gmail.com. Other phone +1-870-451-2495. Recent order 52811.,1
+70031,10462,51783,2026-03-26,product_defect,low,Defect on 51783. Photo attached later. +1-755-241-4716 after 6pm. marcus.reyes462@gmail.com Also CC ops+10462@pulsecart.com.,1
+70032,10379,51457,2026-04-20,account,high,Merge my accounts if possible. Primary liam.reyes379@pulsecart-mail.com. Other phone +1-586-953-7098. Recent order 51457.,0
+70033,10269,51022,2025-08-31,product_defect,low,FitBand 3 from order 51022 will not sync. Serial looks like SN-51022. Write to maya.diaz269@outlook.com.,1
+70034,10624,52418,2026-05-27,return,high,Want to return 52418 — item damaged. Confirmation to sara.morgan624@outlook.com please. My number is +1-593-400-7140.,1
+70035,10306,51157,2025-09-21,delivery,high,ETA missed on 51157. I already emailed sara.silva306@yahoo.com. Need a callback at +1-961-522-5094.,0
+70036,10785,53088,2025-08-19,delivery,medium,ETA missed on 53088. I already emailed mia.walker785@pulsecart-mail.com. Need a callback at +1-520-481-9609.,1
+70037,10730,52856,2025-12-11,delivery,low,Package for order 52856 still not here. Reach me at +1-320-405-9827 or sara.hughes730@gmail.com. Tracking looks stuck.,1
+70038,10246,50930,2025-07-21,return,medium,Return request order#50930. Kitchen item leaked. Contact: gracereyes246 at gmail.com / +1-701-344-6570,1
+70039,10563,52162,2026-06-26,return,low,Return request order#52162. Kitchen item leaked. Contact: ava.rao563@gmail.com / +1-346-361-9657,1
+70040,10193,50776,2025-03-10,,medium,Double charged for 50776. Last four of card on file. Mail receipt to noah.diaz193@outlook.com. Phone +1-873-964-5708.,1
+70041,10736,52879,2026-08-21,return,medium,Want to return 52879 — item damaged. Confirmation to maya.iyer736@outlook.com please. My number is +1-821-416-1733.,1
+70042,10129,50511,2026-02-04,delivery,medium,ETA missed on 50511. I already emailed priya.bennett129@yahoo.com. Need a callback at +1-572-997-9406.,1
+70043,10433,51659,2025-12-14,delivery,medium,Package for order 51659 still not here. Reach me at +1-205-571-4775 or hannah.iyer433@pulsecart-mail.com. Tracking looks stuck.,1
+70044,10629,52436,2026-04-04,product_defect,low,Defect on 52436. Photo attached later. +1-887-712-8751 after 6pm. GRACE.WALKER629@GMAIL.COM Also CC ops+10629@pulsecart.com.,1
+70045,10242,50915,2026-04-03,return,low,Return request order#50915. Kitchen item leaked. Contact: jonah.hughes242@pulsecart-mail.com / +1-863-555-6351 Also CC ops+10242@pulsecart.com.,0
+70046,10344,51309,2025-02-10,product_defect,low,Defect on 51309. Photo attached later. +1-984-269-4630 after 6pm. liam.ortiz344@gmail.com Also CC ops+10344@pulsecart.com.,1
+70047,10522,52000,2026-02-19,account,medium,Merge my accounts if possible. Primary amara.ali522@yahoo.com. Other phone 303-313-2737. Recent order 52000.,1
+70048,10683,52666,2026-03-16,delivery,medium,ETA missed on 52666. I already emailed nina.chen683@pulsecart-mail.com. Need a callback at +1-838-640-1071.,1
+70049,10674,52622,2025-07-28,delivery,low,Package for order 52622 still not here. Reach me at +1-354-354-2887 or kai.iyer674@yahoo.com. Tracking looks stuck.,1
+70050,10398,51525,2026-06-30,return,low,Return request order#51525. Kitchen item leaked. Contact: arjun.rao398@gmail.com / +1-604-478-2175,1
+70051,10096,50381,2025-12-02,account,low,Merge my accounts if possible. Primary kai.morgan96@yahoo.com. Other phone +1-282-281-2067. Recent order 50381.,1
+70052,10775,53039,2026-03-01,delivery,medium,Package for order 53039 still not here. Reach me at +1-321-671-1532 or ryan.silva775@yahoo.com. Tracking looks stuck. Also CC ops+10775@pulsecart.com.,0
+70053,10665,52584,2025-09-19,return,medium,Want to return 52584 — item damaged. Confirmation to owen.walker665@pulsecart-mail.com please. My number is +1-449-887-3977. Also CC ops+10665@pulsecart.com.,1
+70054,10184,50735,2026-01-10,delivery,low,Package for order 50735 still not here. Reach me at +1-589-528-4256 or imani.reyes184@outlook.com. Tracking looks stuck.,1
+70055,10032,50124,2026-06-02,account,low,Merge my accounts if possible. Primary mia.reyes32@yahoo.com. Other phone +1-380-480-7180. Recent order 50124.,1
+70056,10563,52165,2026-01-23,product_defect,medium,FitBand 3 from order 52165 will not sync. Serial looks like SN-52165. Write to ava.rao563@gmail.com.,0
+70057,10221,50867,2026-03-23,,low,FitBand 3 from order 50867 will not sync. Serial looks like SN-50867. Write to imani.walker221@outlook.com.,1
+70058,10781,53066,2026-02-03,delivery,low,Package for order 53066 still not here. Reach me at +1-261-464-8403 or nina.morgan781@gmail.com. Tracking looks stuck.,1
+70059,10518,51986,2025-04-17,delivery,medium,Package for order 51986 still not here. Reach me at +1-202-514-2964 or KAI.KHAN518@YAHOO.COM. Tracking looks stuck.,1
+70060,10784,53083,2026-04-01,product_defect,high,FitBand 3 from order 53083 will not sync. Serial looks like SN-53083. Write to nina.hughes784@pulsecart-mail.com.,1
+70061,10134,50534,2026-03-15,delivery,medium,Package for order 50534 still not here. Reach me at +1-728-342-7208 or owen.chen134@yahoo.com. Tracking looks stuck. Also CC ops+10134@pulsecart.com.,1
+70062,10065,50258,2026-03-23,delivery,low,Package for order 50258 still not here. Reach me at +1-676-343-9667 or noah.nguyen65@outlook.com. Tracking looks stuck.,1
+70063,10671,52612,2026-03-10,billing,high,Double charged for 52612. Last four of card on file. Mail receipt to amara.kim671@outlook.com. Phone +1-993-718-6919.,1
+70064,10698,52729,2026-01-04,return,low,Want to return 52729 — item damaged. Confirmation to liam.reyes698@pulsecart-mail.com please. My number is +1-608-272-1147.,0
+70065,10463,51787,2026-06-25,return,low,Want to return 51787 — item damaged. Confirmation to maya.brooks463@yahoo.com please. My number is +1-740-450-9287.,1
+70066,10106,50419,2025-09-12,product_defect,low,FitBand 3 from order 50419 will not sync. Serial looks like SN-50419. Write to mateo.bennett106@outlook.com.,1
+70067,10105,50410,2026-08-24,product_defect,high,FitBand 3 from order 50410 will not sync. Serial looks like SN-50410. Write to imani.rao105@gmail.com.,0
+70068,10575,52213,2026-06-20,delivery,low,ETA missed on 52213. I already emailed marcus.ortiz575@pulsecart-mail.com. Need a callback at +1-211-450-5525.,1
+70069,10003,50011,2025-10-21,account,low,Merge my accounts if possible. Primary maya.bennett3@outlook.com. Other phone +1-445-842-4470. Recent order 50011. Also CC ops+10003@pulsecart.com.,0
+70070,10148,50576,2025-09-12,billing,medium,Double charged for 50576. Last four of card on file. Mail receipt to NINA.CHEN148@GMAIL.COM. Phone +1-873-706-5127.,1
+70071,10848,53353,2025-10-06,account,low,Cannot reset password. Account email elena.shah848@gmail.com. I also use 713-555-3910. Ref 53353.,0
+70072,10122,50476,2026-05-21,return,medium,Want to return 50476 — item damaged. Confirmation to jonah.iyer122@gmail.com please. My number is +1-846-623-4157.,1
+70073,10837,53297,2025-12-22,product_defect,medium,FitBand 3 from order 53297 will not sync. Serial looks like SN-53297. Write to priya.chen837@outlook.com.,1
+70074,10251,50952,2025-11-20,,low,Want to return 50952 — item damaged. Confirmation to ethan.rao251@outlook.com please. My number is +1-386-937-2844.,1
+70075,10311,51179,2026-06-21,return,medium,Return request order#51179. Kitchen item leaked. Contact: mateo.bennett311@pulsecart-mail.com / +1-255-323-5578,1
+70076,10104,50407,2025-11-10,delivery,medium,Package for order 50407 still not here. Reach me at +1-607-602-4474 or leila.walker104@outlook.com. Tracking looks stuck.,1
+70077,10601,52317,2026-02-16,product_defect,low,FitBand 3 from order 52317 will not sync. Serial looks like SN-52317. Write to owen.foster601@yahoo.com.,1
+70078,10163,50634,2026-03-18,product_defect,low,Defect on 50634. Photo attached later. +1-570-883-2557 after 6pm. zara.ali163@yahoo.com,1
+70079,10003,50010,2026-02-09,billing,low,Double charged for 50010. Last four of card on file. Mail receipt to maya.bennett3@outlook.com. Phone +1-445-842-4470. Also CC ops+10003@pulsecart.com.,0
+70080,10811,53197,2026-08-04,return,medium,Want to return 53197 — item damaged. Confirmation to arjun.foster811@gmail.com please. My number is +1-505-346-7237. Also CC ops+10811@pulsecart.com.,0
+70081,10645,52493,2025-02-05,return,medium,Want to return 52493 — item damaged. Confirmation to elena.hughes645@yahoo.com please. My number is +1-280-393-3364.,1
+70082,10028,50108,2026-06-01,delivery,medium,Package for order 50108 still not here. Reach me at +1-984-941-7653 or dev.silva28@pulsecart-mail.com. Tracking looks stuck.,1
+70083,10832,53274,2026-07-04,billing,high,Double charged for 53274. Last four of card on file. Mail receipt to ava.hughes832@pulsecart-mail.com. Phone +1-930-236-1183. Also CC ops+10832@pulsecart.com.,0
+70084,10429,51636,2026-08-18,billing,medium,Double charged for 51636. Last four of card on file. Mail receipt to chris.walker429@outlook.com. Phone +1-337-732-2501. Also CC ops+10429@pulsecart.com.,1
+70085,10604,52331,2026-02-07,delivery,medium,ETA missed on 52331. I already emailed diego.shah604@pulsecart-mail.com. Need a callback at +1-838-898-3662.,1
+70086,10698,52730,2025-10-25,product_defect,low,Defect on 52730. Photo attached later. +1-608-272-1147 after 6pm. liam.reyes698@pulsecart-mail.com,1
+70087,10019,50075,2026-04-27,account,medium,Cannot reset password. Account email fatima.nguyen19@gmail.com. I also use +1-679-932-5655. Ref 50075.,1
+70088,10626,52423,2025-08-09,account,medium,Cannot reset password. Account email ryan.rao626@pulsecart-mail.com. I also use +1-771-853-8873. Ref 52423.,0
+70089,10048,50184,2026-02-02,account,high,Cannot reset password. Account email chris.morgan48@yahoo.com. I also use +1-522-705-2376. Ref 50184. Also CC ops+10048@pulsecart.com.,1
+70090,10459,51768,2026-06-26,account,medium,Merge my accounts if possible. Primary owen.ortiz459@pulsecart-mail.com. Other phone +1-892-567-8525. Recent order 51768.,1
+70091,10413,51587,2026-06-27,,high,Merge my accounts if possible. Primary fatima.rao413@yahoo.com. Other phone +1-481-417-6117. Recent order 51587.,1
+70092,10037,50137,2026-07-16,account,low,Merge my accounts if possible. Primary KAI.ALI37@PULSECART-MAIL.COM. Other phone +1-607-279-8481. Recent order 50137. Also CC ops+10037@pulsecart.com.,1
+70093,10553,52128,2026-01-12,product_defect,high,FitBand 3 from order 52128 will not sync. Serial looks like SN-52128. Write to arjun.kim553@pulsecart-mail.com.,1
+70094,10341,51296,2025-09-12,product_defect,low,FitBand 3 from order 51296 will not sync. Serial looks like SN-51296. Write to noah.walker341@pulsecart-mail.com.,0
+70095,10658,52556,2025-12-24,return,medium,Return request order#52556. Kitchen item leaked. Contact: leila.nguyen658@gmail.com / +1-775-681-6081,1
+70096,10374,51432,2025-11-13,account,medium,Cannot reset password. Account email marcus.silva374@pulsecart-mail.com. I also use +1-766-715-2622. Ref 51432.,1
+70097,10503,51938,2026-06-10,product_defect,low,FitBand 3 from order 51938 will not sync. Serial looks like SN-51938. Write to owen.silva503@yahoo.com.,1
+70098,10194,50780,2026-03-24,product_defect,low,FitBand 3 from order 50780 will not sync. Serial looks like SN-50780. Write to mateo.kim194@outlook.com.,1
+70099,10654,52531,2026-05-18,return,medium,Want to return 52531 — item damaged. Confirmation to mateo.ortiz654@gmail.com please. My number is +1-431-428-6325.,1
+70100,10154,50602,2026-03-21,account,low,Merge my accounts if possible. Primary ryan.hughes154@yahoo.com. Other phone +1-695-876-8375. Recent order 50602.,1
+70101,10683,52662,2026-04-15,delivery,low,Package for order 52662 still not here. Reach me at +1-838-640-1071 or nina.chen683@pulsecart-mail.com. Tracking looks stuck. Also CC ops+10683@pulsecart.com.,0
+70102,10231,50894,2025-11-10,account,low,Cannot reset password. Account email grace.walker231@outlook.com. I also use +1-434-302-5588. Ref 50894.,1
+70103,10642,52480,2025-12-23,return,low,Want to return 52480 — item damaged. Confirmation to kai.morgan642@gmail.com please. My number is +1-202-436-8664.,1
+70104,10425,51625,2026-03-02,delivery,low,Package for order 51625 still not here. Reach me at +1-975-832-6015 or elena.morgan425@gmail.com. Tracking looks stuck. Also CC ops+10425@pulsecart.com.,1
+70105,10424,51621,2026-03-16,delivery,medium,Package for order 51621 still not here. Reach me at 713-555-8778 or liam.hughes424@outlook.com. Tracking looks stuck.,0
+70106,10257,50979,2025-03-24,return,medium,Return request order#50979. Kitchen item leaked. Contact: amara.ortiz257@gmail.com / +1-377-600-3681,0
+70107,10831,53264,2026-03-15,delivery,low,Package for order 53264 still not here. Reach me at +1-275-381-2978 or mateo.ortiz831@outlook.com. Tracking looks stuck.,0
+70108,10079,50310,2026-07-16,,low,Double charged for 50310. Last four of card on file. Mail receipt to priya.reyes79@yahoo.com. Phone +1-267-676-9319.,1
+70109,10784,53080,2025-08-15,account,medium,Cannot reset password. Account email nina.hughes784@pulsecart-mail.com. I also use +1-837-962-9031. Ref 53080.,1
+70110,10438,51684,2026-04-06,product_defect,high,FitBand 3 from order 51684 will not sync. Serial looks like SN-51684. Write to chris.foster438@yahoo.com.,1
+70111,10182,50720,2026-08-21,account,high,Cannot reset password. Account email maya.cole182@yahoo.com. I also use +1-752-554-6793. Ref 50720.,0
+70112,10372,51421,2026-06-05,delivery,low,ETA missed on 51421. I already emailed zara.kim372@pulsecart-mail.com. Need a callback at +1-781-608-6546.,1
+70113,10032,50123,2026-08-07,product_defect,medium,FitBand 3 from order 50123 will not sync. Serial looks like SN-50123. Write to mia.reyes32@yahoo.com.,1
+70114,10689,52688,2026-05-25,account,medium,Merge my accounts if possible. Primary hannah.khan689@gmail.com. Other phone 713-555-2038. Recent order 52688.,1
+70115,10688,52683,2026-02-17,account,low,Merge my accounts if possible. Primary noah.khan688@gmail.com. Other phone +1-246-202-5114. Recent order 52683.,1
+70116,10797,53140,2026-05-21,return,low,Return request order#53140. Kitchen item leaked. Contact: chris.chen797@outlook.com / +1-316-363-5212,1
+70117,10295,51113,2026-04-12,billing,high,Promo code failed on 51113. Please refund difference. maya.cole295@gmail.com +1-553-548-6832,1
+70118,10084,50335,2025-09-04,delivery,low,Package for order 50335 still not here. Reach me at +1-857-225-2773 or imani.reyes84@gmail.com. Tracking looks stuck.,0
+70119,10598,52310,2025-02-28,return,medium,Return request order#52310. Kitchen item leaked. Contact: grace.brooks598@outlook.com / +1-705-572-2471,1
+70120,10583,52245,2025-12-19,delivery,low,Package for order 52245 still not here. Reach me at 713-555-2175 or anika.reyes583@pulsecart-mail.com. Tracking looks stuck. Also CC ops+10583@pulsecart.com.,1
+70121,10587,52261,2026-07-13,billing,low,Promo code failed on 52261. Please refund difference. nina.brooks587@gmail.com +1-848-253-6342,0
+70122,10461,51776,2025-09-28,return,medium,Return request order#51776. Kitchen item leaked. Contact: nina.foster461@pulsecart-mail.com / +1-329-592-2249,1
+70123,10056,50217,2026-03-29,delivery,low,ETA missed on 50217. I already emailed leila.silva56@yahoo.com. Need a callback at +1-310-439-9645.,0
+70124,10768,53001,2025-10-02,return,medium,Want to return 53001 — item damaged. Confirmation to dev.ortiz768@yahoo.com please. My number is +1-706-814-9407.,1
+70125,10489,51881,2025-12-21,,medium,Package for order 51881 still not here. Reach me at +1-779-219-7498 or kai.nguyen489@pulsecart-mail.com. Tracking looks stuck.,0
+70126,10252,50960,2026-04-05,account,high,Merge my accounts if possible. Primary mateo.iyer252@outlook.com. Other phone +1-876-334-5944. Recent order 50960.,1
+70127,10522,51996,2026-05-19,return,low,Return request order#51996. Kitchen item leaked. Contact: amara.ali522@yahoo.com / 303-313-2737,1
+70128,10726,52838,2026-08-10,delivery,low,ETA missed on 52838. I already emailed liam.foster726@outlook.com. Need a callback at +1-478-652-4160. Also CC ops+10726@pulsecart.com.,0
+70129,10644,52483,2025-06-14,delivery,medium,Package for order 52483 still not here. Reach me at +1-362-205-9830 or hannah.chen644@outlook.com. Tracking looks stuck.,1
+70130,10170,50669,2025-09-22,product_defect,high,FitBand 3 from order 50669 will not sync. Serial looks like SN-50669. Write to sara.bennett170@gmail.com.,1
+70131,10286,51088,2025-09-11,return,high,Return request order#51088. Kitchen item leaked. Contact: owen.reyes286@pulsecart-mail.com / +1-245-595-3831,1
+70132,10611,52358,2025-10-09,account,medium,Cannot reset password. Account email chris.nguyen611@outlook.com. I also use +1-515-560-3515. Ref 52358.,1
+70133,10616,52374,2026-03-01,product_defect,medium,Defect on 52374. Photo attached later. +1-443-391-2610 after 6pm. nina.diaz616@gmail.com,1
+70134,10282,51067,2026-06-07,account,medium,Cannot reset password. Account email noah.foster282@pulsecart-mail.com. I also use +1-676-808-8550. Ref 51067.,1
+70135,10476,51834,2026-03-25,delivery,medium,ETA missed on 51834. I already emailed dev.diaz476@outlook.com. Need a callback at +1-854-238-8611.,1
+70136,10213,50833,2026-04-07,delivery,low,Package for order 50833 still not here. Reach me at +1-582-381-9348 or sara.hughes213@pulsecart-mail.com. Tracking looks stuck.,1
+70137,10732,52860,2025-11-29,return,medium,Want to return 52860 — item damaged. Confirmation to nina.reyes732@yahoo.com please. My number is +1-392-544-1459.,1
+70138,10695,52711,2026-05-29,delivery,low,Package for order 52711 still not here. Reach me at +1-590-637-5157 or owen.ali695@pulsecart-mail.com. Tracking looks stuck.,1
+70139,10703,52750,2025-09-19,product_defect,low,Defect on 52750. Photo attached later. +1-295-941-3941 after 6pm. KAI.COLE703@GMAIL.COM,1
+70140,10774,53038,2025-10-22,product_defect,low,Defect on 53038. Photo attached later. +1-937-335-6028 after 6pm. leila.ortiz774@gmail.com,1
+70141,10430,51642,2026-06-28,return,high,Return request order#51642. Kitchen item leaked. Contact: owen.diaz430@outlook.com / +1-343-394-2151,1
+70142,10733,52865,2025-07-23,,low,Double charged for 52865. Last four of card on file. Mail receipt to arjun.shah733@outlook.com. Phone +1-821-553-4965.,1
+70143,10395,51512,2026-08-25,delivery,medium,Package for order 51512 still not here. Reach me at +1-228-598-2583 or zara.morgan395@outlook.com. Tracking looks stuck.,1
+70144,10791,53115,2025-12-02,product_defect,medium,FitBand 3 from order 53115 will not sync. Serial looks like SN-53115. Write to grace.brooks791@gmail.com.,1
+70145,10473,51820,2025-11-22,delivery,low,ETA missed on 51820. I already emailed jonah.iyer473@outlook.com. Need a callback at +1-289-957-1599.,1
+70146,10024,50092,2026-06-23,return,high,Return request order#50092. Kitchen item leaked. Contact: mateo.morgan24@yahoo.com / +1-754-967-3288,1
+70147,10321,51228,2026-04-05,delivery,medium,ETA missed on 51228. I already emailed priya.shah321@yahoo.com. Need a callback at +1-995-822-1877.,1
+70148,10700,52735,2026-07-25,product_defect,medium,FitBand 3 from order 52735 will not sync. Serial looks like SN-52735. Write to owen.hughes700@yahoo.com.,0
+70149,10741,52907,2025-11-18,account,medium,Cannot reset password. Account email sofia.reyes741@pulsecart-mail.com. I also use +1-873-351-9590. Ref 52907.,1
+70150,10035,50135,2026-04-14,account,medium,Cannot reset password. Account email dev.chen35@outlook.com. I also use +1-472-343-6163. Ref 50135.,1
+70151,10519,51989,2025-11-03,delivery,medium,Package for order 51989 still not here. Reach me at +1-280-280-8415 or ava.walker519@yahoo.com. Tracking looks stuck.,0
+70152,10247,50938,2026-05-15,return,low,Return request order#50938. Kitchen item leaked. Contact: dev.iyer247@pulsecart-mail.com / +1-351-975-5057 Also CC ops+10247@pulsecart.com.,1
+70153,10176,50696,2026-05-07,billing,medium,Double charged for 50696. Last four of card on file. Mail receipt to imani.cole176@gmail.com. Phone +1-488-228-5091.,1
+70154,10727,52847,2025-08-13,return,medium,Want to return 52847 — item damaged. Confirmation to anika.foster727@outlook.com please. My number is +1-620-688-4887.,1
+70155,10192,50767,2026-03-14,account,low,Cannot reset password. Account email dev.walker192@gmail.com. I also use +1-834-883-8673. Ref 50767.,1
+70156,10120,50470,2026-04-29,delivery,medium,ETA missed on 50470. I already emailed priya.hughes120@gmail.com. Need a callback at +1-790-888-5064.,1
+70157,10766,52988,2026-02-09,return,low,Want to return 52988 — item damaged. Confirmation to ava.khan766@outlook.com please. My number is +1-741-697-7447.,1
+70158,10125,50496,2026-05-09,product_defect,low,FitBand 3 from order 50496 will not sync. Serial looks like SN-50496. Write to zara.brooks125@yahoo.com.,1
+70159,10089,50364,2026-07-18,,low,Want to return 50364 — item damaged. Confirmation to priya.hughes89@pulsecart-mail.com please. My number is +1-529-741-8254.,1
+70160,10010,50045,2026-03-10,return,low,Return request order#50045. Kitchen item leaked. Contact: kai.brooks10@yahoo.com / +1-927-704-3745,1
+70161,10356,51356,2026-07-14,delivery,medium,Package for order 51356 still not here. Reach me at +1-517-381-3395 or ava.patel356@gmail.com. Tracking looks stuck.,1
+70162,10450,51730,2025-12-16,product_defect,low,FitBand 3 from order 51730 will not sync. Serial looks like SN-51730. Write to chris.nguyen450@yahoo.com.,1
+70163,10383,51467,2026-08-10,return,low,Want to return 51467 — item damaged. Confirmation to dev.diaz383@gmail.com please. My number is +1-686-292-7668.,0
+70164,10155,50605,2025-11-17,return,medium,Want to return 50605 — item damaged. Confirmation to leila.iyer155@yahoo.com please. My number is +1-839-242-4933.,1
+70165,10075,50295,2026-07-25,account,low,Merge my accounts if possible. Primary marcus.hughes75@pulsecart-mail.com. Other phone +1-925-991-9459. Recent order 50295. Also CC ops+10075@pulsecart.com.,1
+70166,10261,50992,2026-05-10,return,medium,Return request order#50992. Kitchen item leaked. Contact: ethan.bennett261@yahoo.com / 400-440-3605 Also CC ops+10261@pulsecart.com.,0
+70167,10327,51251,2025-12-06,delivery,medium,ETA missed on 51251. I already emailed zara.kim327@outlook.com. Need a callback at +1-839-319-6510.,1
+70168,10388,51488,2026-07-11,return,medium,Want to return 51488 — item damaged. Confirmation to sara.silva388@yahoo.com please. My number is +1-947-514-7093.,1
+70169,10379,51456,2025-09-15,account,low,Cannot reset password. Account email liam.reyes379@pulsecart-mail.com. I also use +1-586-953-7098. Ref 51456.,1
+70170,10338,51286,2025-08-14,delivery,medium,ETA missed on 51286. I already emailed grace.cole338@pulsecart-mail.com. Need a callback at +1-845-964-6490.,1
+70171,10058,50233,2026-06-15,billing,low,Double charged for 50233. Last four of card on file. Mail receipt to imani.foster58@yahoo.com. Phone 541-292-3717.,1
+70172,10246,50931,2025-06-01,account,low,Cannot reset password. Account email gracereyes246 at gmail.com. I also use +1-701-344-6570. Ref 50931.,1
+70173,10136,50542,2025-10-09,return,low,Return request order#50542. Kitchen item leaked. Contact: amara.nguyen136@pulsecart-mail.com / +1-462-298-2104,1
+70174,10031,50121,2025-10-26,account,high,Cannot reset password. Account email amara.silva31@gmail.com. I also use +1-453-428-6539. Ref 50121.,1
+70175,10379,51458,2026-02-19,billing,low,Double charged for 51458. Last four of card on file. Mail receipt to liam.reyes379@pulsecart-mail.com. Phone +1-586-953-7098.,1
+70176,10632,52449,2026-04-07,,high,Defect on 52449. Photo attached later. +1-549-417-8668 after 6pm. leo.foster632@yahoo.com,1
+70177,10100,50392,2026-04-14,return,low,Want to return 50392 — item damaged. Confirmation to dev.khan100@gmail.com please. My number is +1-222-301-3736.,0
+70178,10494,51896,2026-03-09,product_defect,medium,Defect on 51896. Photo attached later. +1-264-845-8806 after 6pm. noah.brooks494@gmail.com,1
+70179,10294,51112,2026-04-14,account,medium,Merge my accounts if possible. Primary dev.shah294@outlook.com. Other phone +1-648-302-7674. Recent order 51112.,1
+70180,10078,50306,2025-12-31,delivery,medium,ETA missed on 50306. I already emailed mateo.diaz78@pulsecart-mail.com. Need a callback at +1-510-870-7770.,1
+70181,10508,51955,2026-06-05,billing,medium,Promo code failed on 51955. Please refund difference. diego.foster508@outlook.com +1-298-840-6190,1
+70182,10599,52311,2025-05-06,return,medium,Want to return 52311 — item damaged. Confirmation to liam.shah599@outlook.com please. My number is +1-251-307-9098.,1
+70183,10296,51119,2026-08-07,return,low,Want to return 51119 — item damaged. Confirmation to HANNAH.ORTIZ296@PULSECART-MAIL.COM please. My number is +1-226-419-4006.,1
+70184,10080,50320,2025-12-26,product_defect,high,FitBand 3 from order 50320 will not sync. Serial looks like SN-50320. Write to diego.patel80@yahoo.com.,1
+70185,10558,52143,2026-03-19,account,medium,Merge my accounts if possible. Primary diego.foster558@gmail.com. Other phone +1-471-497-4396. Recent order 52143.,1
+70186,10757,52958,2026-02-05,account,low,Merge my accounts if possible. Primary noah.ali757@gmail.com. Other phone +1-852-739-2266. Recent order 52958.,1
+70187,10758,52963,2026-01-07,delivery,medium,ETA missed on 52963. I already emailed priya.silva758@pulsecart-mail.com. Need a callback at +1-680-979-3453.,1
+70188,10082,50326,2026-02-26,product_defect,low,FitBand 3 from order 50326 will not sync. Serial looks like SN-50326. Write to hannahnguyen82 at gmail.com.,1
+70189,10467,51800,2025-03-10,delivery,low,Package for order 51800 still not here. Reach me at +1-280-585-1138 or liam.diaz467@outlook.com. Tracking looks stuck.,1
+70190,10318,51217,2026-03-24,billing,low,Promo code failed on 51217. Please refund difference. liam.ortiz318@outlook.com 713-555-8768,0
+70191,10305,51156,2025-07-13,return,low,Want to return 51156 — item damaged. Confirmation to priya.ali305@yahoo.com please. My number is +1-554-781-9211.,0
+70192,10103,50398,2026-05-03,product_defect,low,FitBand 3 from order 50398 will not sync. Serial looks like SN-50398. Write to diego.walker103@outlook.com.,1
+70193,10508,51958,2026-03-11,,medium,ETA missed on 51958. I already emailed diego.foster508@outlook.com. Need a callback at +1-298-840-6190.,0
+70194,10670,52611,2025-04-21,product_defect,low,Defect on 52611. Photo attached later. +1-261-807-3357 after 6pm. arjun.rao670@pulsecart-mail.com,1
+70195,10743,52912,2025-08-25,account,medium,Cannot reset password. Account email priya.bennett743@yahoo.com. I also use +1-714-200-5384. Ref 52912.,1
+70196,10399,51529,2025-11-03,product_defect,medium,Defect on 51529. Photo attached later. +1-253-213-9393 after 6pm. kai.hughes399@gmail.com,1
+70197,10448,51718,2026-08-28,delivery,low,ETA missed on 51718. I already emailed mia.kim448@outlook.com. Need a callback at +1-765-926-7788.,1
+70198,10563,52161,2026-03-08,delivery,low,Package for order 52161 still not here. Reach me at +1-346-361-9657 or ava.rao563@gmail.com. Tracking looks stuck.,1
+70199,10056,50214,2025-12-06,product_defect,low,Defect on 50214. Photo attached later. +1-310-439-9645 after 6pm. leila.silva56@yahoo.com,1
+70200,10147,50573,2026-07-05,product_defect,high,Defect on 50573. Photo attached later. +1-480-957-9905 after 6pm. ethan.cole147@pulsecart-mail.com,1
+70201,10584,52246,2026-01-25,account,medium,Merge my accounts if possible. Primary grace.iyer584@yahoo.com. Other phone +1-904-737-5102. Recent order 52246.,1
+70202,10379,51461,2026-04-06,delivery,medium,Package for order 51461 still not here. Reach me at +1-586-953-7098 or liam.reyes379@pulsecart-mail.com. Tracking looks stuck.,0
+70203,10658,52554,2025-06-02,delivery,low,Package for order 52554 still not here. Reach me at +1-775-681-6081 or leila.nguyen658@gmail.com. Tracking looks stuck.,1
+70204,10285,51077,2025-12-29,return,low,Want to return 51077 — item damaged. Confirmation to owen.patel285@gmail.com please. My number is +1-911-669-7539.,1
+70205,10207,50818,2026-04-19,return,medium,Want to return 50818 — item damaged. Confirmation to leila.foster207@yahoo.com please. My number is +1-341-330-8670.,1
+70206,10680,52652,2025-10-08,billing,medium,Double charged for 52652. Last four of card on file. Mail receipt to ryan.walker680@yahoo.com. Phone +1-920-526-3084.,1
+70207,10420,51604,2026-01-26,return,low,Want to return 51604 — item damaged. Confirmation to kai.morgan420@yahoo.com please. My number is +1-851-653-5565. Also CC ops+10420@pulsecart.com.,1
+70208,10654,52535,2025-10-17,billing,medium,Double charged for 52535. Last four of card on file. Mail receipt to mateo.ortiz654@gmail.com. Phone +1-431-428-6325.,1
+70209,10537,52061,2025-09-21,billing,low,Double charged for 52061. Last four of card on file. Mail receipt to jonah.diaz537@yahoo.com. Phone +1-956-435-4890.,1
+70210,10668,52597,2026-01-30,,low,Package for order 52597 still not here. Reach me at +1-610-781-5001 or sofia.foster668@gmail.com. Tracking looks stuck.,1
+70211,10378,51454,2026-05-22,return,low,Want to return 51454 — item damaged. Confirmation to elena.rao378@yahoo.com please. My number is +1-311-745-4920.,1
+70212,10101,50394,2025-05-03,return,medium,Want to return 50394 — item damaged. Confirmation to elena.hughes101@pulsecart-mail.com please. My number is +1-525-802-9347.,1
+70213,10054,50203,2025-08-18,return,medium,Want to return 50203 — item damaged. Confirmation to mia.nguyen54@pulsecart-mail.com please. My number is +1-762-204-9877.,1
+70214,10847,53345,2025-07-27,account,low,Merge my accounts if possible. Primary owen.rao847@pulsecart-mail.com. Other phone +1-863-553-1650. Recent order 53345.,1
+70215,10734,52869,2025-12-07,account,medium,Cannot reset password. Account email marcus.silva734@outlook.com. I also use +1-911-582-1945. Ref 52869.,0
+70216,10410,51581,2026-01-27,billing,low,Double charged for 51581. Last four of card on file. Mail receipt to diegopatel410 at gmail.com. Phone +1-732-389-6878.,1
+70217,10146,50569,2026-06-02,return,medium,Return request order#50569. Kitchen item leaked. Contact: anika.ali146@yahoo.com / +1-308-530-7380,1
+70218,10184,50740,2026-07-11,delivery,low,Package for order 50740 still not here. Reach me at +1-589-528-4256 or imani.reyes184@outlook.com. Tracking looks stuck.,0
+70219,10244,50924,2026-06-22,delivery,low,ETA missed on 50924. I already emailed marcus.hughes244@gmail.com. Need a callback at +1-712-890-5211.,1
+70220,10356,51355,2026-06-15,delivery,medium,Package for order 51355 still not here. Reach me at +1-517-381-3395 or ava.patel356@gmail.com. Tracking looks stuck.,1
+70221,10405,51556,2026-01-04,delivery,medium,ETA missed on 51556. I already emailed noah.foster405@outlook.com. Need a callback at +1-539-422-7404.,1
+70222,10216,50843,2026-05-20,delivery,low,ETA missed on 50843. I already emailed zara.kim216@gmail.com. Need a callback at +1-545-367-7051.,1
+70223,10511,51963,2026-04-23,account,medium,Cannot reset password. Account email mateo.walker511@yahoo.com. I also use +1-701-297-4672. Ref 51963.,1
+70224,10799,53150,2026-08-16,billing,low,Double charged for 53150. Last four of card on file. Mail receipt to sara.hughes799@gmail.com. Phone +1-320-441-5202.,1
+70225,10362,51376,2026-04-20,delivery,high,ETA missed on 51376. I already emailed marcus.brooks362@gmail.com. Need a callback at +1-201-482-2806.,1
+70226,10449,51727,2025-09-14,delivery,medium,Package for order 51727 still not here. Reach me at +1-275-315-1346 or nina.rao449@gmail.com. Tracking looks stuck.,1
+70227,10210,50823,2026-02-18,,medium,ETA missed on 50823. I already emailed leo.reyes210@gmail.com. Need a callback at +1-246-865-9672.,1
+70228,10370,51413,2025-03-17,delivery,low,Package for order 51413 still not here. Reach me at +1-357-391-2602 or SOFIA.KHAN370@YAHOO.COM. Tracking looks stuck.,1
+70229,10354,51344,2026-04-13,billing,medium,Promo code failed on 51344. Please refund difference. sofia.foster354@gmail.com +1-632-845-5448,1
+70230,10807,53175,2025-08-14,product_defect,low,FitBand 3 from order 53175 will not sync. Serial looks like SN-53175. Write to ryan.cole807@outlook.com.,0
+70231,10433,51657,2026-07-12,delivery,medium,Package for order 51657 still not here. Reach me at +1-205-571-4775 or hannah.iyer433@pulsecart-mail.com. Tracking looks stuck.,1
+70232,10370,51411,2025-06-12,product_defect,medium,Defect on 51411. Photo attached later. +1-357-391-2602 after 6pm. SOFIA.KHAN370@YAHOO.COM Also CC ops+10370@pulsecart.com.,0
+70233,10208,50819,2025-11-24,delivery,low,ETA missed on 50819. I already emailed ethan.diaz208@outlook.com. Need a callback at +1-818-734-2080. Also CC ops+10208@pulsecart.com.,1
+70234,10061,50242,2026-04-24,account,high,Cannot reset password. Account email nina.walker61@outlook.com. I also use +1-740-714-7196. Ref 50242.,1
+70235,10163,50631,2026-07-04,billing,low,Double charged for 50631. Last four of card on file. Mail receipt to zara.ali163@yahoo.com. Phone +1-570-883-2557.,1
+70236,10047,50175,2025-12-20,billing,high,Double charged for 50175. Last four of card on file. Mail receipt to jonah.silva47@yahoo.com. Phone +1-765-690-5770.,1
+70237,10006,50028,2025-09-02,return,medium,Return request order#50028. Kitchen item leaked. Contact: kai.ali6@pulsecart-mail.com / +1-978-825-2179,0
+70238,10702,52746,2025-12-19,return,low,Want to return 52746 — item damaged. Confirmation to amara.reyes702@yahoo.com please. My number is +1-246-807-6893.,1
+70239,10169,50666,2026-05-02,product_defect,low,FitBand 3 from order 50666 will not sync. Serial looks like SN-50666. Write to sara.cole169@gmail.com. Also CC ops+10169@pulsecart.com.,1
+70240,10012,50052,2026-05-30,product_defect,medium,FitBand 3 from order 50052 will not sync. Serial looks like SN-50052. Write to chris.morgan12@pulsecart-mail.com.,1
+70241,10164,50642,2025-11-23,return,low,Want to return 50642 — item damaged. Confirmation to ethankim164 at gmail.com please. My number is +1-852-303-5775.,1
+70242,10656,52545,2026-07-16,billing,low,Double charged for 52545. Last four of card on file. Mail receipt to imanibrooks656 at gmail.com. Phone +1-495-473-1997.,1
+70243,10303,51144,2026-03-05,return,low,Want to return 51144 — item damaged. Confirmation to jonah.morgan303@pulsecart-mail.com please. My number is +1-768-241-5917.,0
+70244,10136,50540,2026-06-06,,medium,Defect on 50540. Photo attached later. +1-462-298-2104 after 6pm. amara.nguyen136@pulsecart-mail.com,1
+70245,10229,50885,2025-12-01,billing,medium,Promo code failed on 50885. Please refund difference. anika.reyes229@outlook.com +1-549-387-2985,1
+70246,10196,50789,2025-08-05,delivery,medium,ETA missed on 50789. I already emailed kai.chen196@yahoo.com. Need a callback at +1-909-446-4854.,1
+70247,10560,52156,2026-04-18,account,high,Merge my accounts if possible. Primary dev.morgan560@outlook.com. Other phone +1-966-430-4380. Recent order 52156. Also CC ops+10560@pulsecart.com.,1
+70248,10260,50990,2025-10-25,product_defect,medium,FitBand 3 from order 50990 will not sync. Serial looks like SN-50990. Write to zara.kim260@pulsecart-mail.com.,1
+70249,10502,51932,2026-05-27,return,low,Want to return 51932 — item damaged. Confirmation to liam.foster502@gmail.com please. My number is +1-461-294-8314. Also CC ops+10502@pulsecart.com.,1
+70250,10183,50732,2026-02-08,product_defect,high,FitBand 3 from order 50732 will not sync. Serial looks like SN-50732. Write to owen.brooks183@pulsecart-mail.com.,1
+70251,10513,51969,2026-08-19,billing,medium,Promo code failed on 51969. Please refund difference. diego.rao513@yahoo.com +1-697-552-3274,0
+70252,10747,52927,2026-05-10,delivery,low,Package for order 52927 still not here. Reach me at +1-905-434-1992 or sara.iyer747@pulsecart-mail.com. Tracking looks stuck.,0
+70253,10242,50921,2026-06-19,return,low,Want to return 50921 — item damaged. Confirmation to jonah.hughes242@pulsecart-mail.com please. My number is +1-863-555-6351.,1
+70254,10438,51685,2026-04-17,return,medium,Want to return 51685 — item damaged. Confirmation to chris.foster438@yahoo.com please. My number is +1-745-415-9610.,0
+70255,10763,52980,2025-04-10,delivery,low,ETA missed on 52980. I already emailed owen.chen763@gmail.com. Need a callback at +1-767-560-9082.,1
+70256,10826,53245,2026-02-01,product_defect,low,Defect on 53245. Photo attached later. +1-385-677-6235 after 6pm. hannah.silva826@outlook.com,0
+70257,10698,52728,2025-11-30,account,medium,Merge my accounts if possible. Primary liam.reyes698@pulsecart-mail.com. Other phone +1-608-272-1147. Recent order 52728.,1
+70258,10725,52833,2026-01-15,account,medium,Cannot reset password. Account email diego.chen725@pulsecart-mail.com. I also use 332-762-5053. Ref 52833.,1
+70259,10560,52154,2025-12-19,product_defect,medium,FitBand 3 from order 52154 will not sync. Serial looks like SN-52154. Write to dev.morgan560@outlook.com.,1
+70260,10250,50946,2026-05-26,product_defect,high,Defect on 50946. Photo attached later. +1-937-263-1492 after 6pm. sofia.rao250@pulsecart-mail.com,1
+70261,10237,50906,2026-06-18,,high,Package for order 50906 still not here. Reach me at +1-360-687-3770 or dev.walker237@outlook.com. Tracking looks stuck.,0
+70262,10019,50078,2026-07-10,product_defect,low,FitBand 3 from order 50078 will not sync. Serial looks like SN-50078. Write to fatima.nguyen19@gmail.com. Also CC ops+10019@pulsecart.com.,1
+70263,10122,50482,2026-08-07,return,low,Return request order#50482. Kitchen item leaked. Contact: jonah.iyer122@gmail.com / +1-846-623-4157,1
+70264,10106,50416,2025-07-15,return,low,Want to return 50416 — item damaged. Confirmation to mateo.bennett106@outlook.com please. My number is 713-555-8111.,0
+70265,10213,50832,2026-07-01,delivery,medium,ETA missed on 50832. I already emailed sara.hughes213@pulsecart-mail.com. Need a callback at +1-582-381-9348.,1
+70266,10110,50434,2026-07-04,return,low,Want to return 50434 — item damaged. Confirmation to anika.diaz110@outlook.com please. My number is +1-762-350-4746.,1
+70267,10696,52718,2026-05-07,return,medium,Return request order#52718. Kitchen item leaked. Contact: marcus.patel696@yahoo.com / 546-369-8521,1
+70268,10400,51536,2026-02-23,return,medium,Want to return 51536 — item damaged. Confirmation to hannah.khan400@yahoo.com please. My number is +1-653-308-5268.,1
+70269,10776,53042,2026-01-25,return,medium,Want to return 53042 — item damaged. Confirmation to maya.shah776@outlook.com please. My number is +1-298-634-7661.,1
+70270,10149,50583,2026-08-28,billing,low,Promo code failed on 50583. Please refund difference. marcus.patel149@yahoo.com +1-580-703-9465,1
+70271,10097,50384,2025-11-09,return,high,Want to return 50384 — item damaged. Confirmation to grace.iyer97@gmail.com please. My number is +1-471-224-4308.,0
+70272,10256,50975,2026-02-12,account,low,Merge my accounts if possible. Primary diego.brooks256@outlook.com. Other phone +1-314-778-5506. Recent order 50975.,0
+70273,10323,51235,2025-12-08,return,low,Want to return 51235 — item damaged. Confirmation to priya.kim323@gmail.com please. My number is +1-250-284-1130.,0
+70274,10550,52115,2026-04-05,return,high,Return request order#52115. Kitchen item leaked. Contact: sofia.cole550@pulsecart-mail.com / +1-890-727-2014,1
+70275,10110,50435,2026-04-30,account,medium,Cannot reset password. Account email anika.diaz110@outlook.com. I also use +1-762-350-4746. Ref 50435.,1
+70276,10385,51472,2025-08-28,delivery,low,Package for order 51472 still not here. Reach me at +1-795-411-2413 or grace.iyer385@outlook.com. Tracking looks stuck.,1
+70277,10315,51200,2026-06-25,billing,medium,Double charged for 51200. Last four of card on file. Mail receipt to anika.nguyen315@gmail.com. Phone +1-233-267-8209.,0
+70278,10030,50114,2026-01-01,,medium,ETA missed on 50114. I already emailed ryan.khan30@yahoo.com. Need a callback at +1-810-218-3682. Also CC ops+10030@pulsecart.com.,1
+70279,10282,51070,2025-09-24,account,low,Cannot reset password. Account email noah.foster282@pulsecart-mail.com. I also use +1-676-808-8550. Ref 51070.,1
+70280,10323,51240,2026-07-15,delivery,low,ETA missed on 51240. I already emailed priya.kim323@gmail.com. Need a callback at +1-250-284-1130.,1
+70281,10127,50507,2026-08-02,delivery,low,ETA missed on 50507. I already emailed priya.bennett127@outlook.com. Need a callback at +1-291-226-9585.,1
+70282,10043,50160,2025-09-02,return,low,Want to return 50160 — item damaged. Confirmation to ethan.kim43@gmail.com please. My number is +1-292-606-6187.,1
+70283,10255,50974,2026-06-03,delivery,low,ETA missed on 50974. I already emailed chris.patel255@outlook.com. Need a callback at +1-239-765-9578. Also CC ops+10255@pulsecart.com.,1
+70284,10507,51950,2026-06-07,delivery,low,Package for order 51950 still not here. Reach me at +1-212-238-3935 or anika.ali507@outlook.com. Tracking looks stuck.,1
+70285,10535,52056,2026-08-23,return,low,Want to return 52056 — item damaged. Confirmation to sofia.brooks535@outlook.com please. My number is +1-307-361-8213.,1
+70286,10686,52677,2025-11-19,product_defect,high,Defect on 52677. Photo attached later. +1-562-935-3549 after 6pm. ava.iyer686@gmail.com,1
+70287,10400,51534,2025-12-12,product_defect,low,FitBand 3 from order 51534 will not sync. Serial looks like SN-51534. Write to hannah.khan400@yahoo.com. Also CC ops+10400@pulsecart.com.,1
+70288,10795,53129,2025-10-17,return,medium,Want to return 53129 — item damaged. Confirmation to chris.ali795@outlook.com please. My number is 713-555-3251.,1
+70289,10731,52857,2026-03-27,return,low,Return request order#52857. Kitchen item leaked. Contact: anika.khan731@pulsecart-mail.com / +1-207-424-7132 Also CC ops+10731@pulsecart.com.,1
+70290,10122,50478,2026-07-20,delivery,low,Package for order 50478 still not here. Reach me at +1-846-623-4157 or jonah.iyer122@gmail.com. Tracking looks stuck.,1
+70291,10085,50340,2025-05-06,product_defect,medium,Defect on 50340. Photo attached later. +1-738-216-4137 after 6pm. anika.reyes85@yahoo.com Also CC ops+10085@pulsecart.com.,1
+70292,10432,51652,2026-06-15,product_defect,medium,Defect on 51652. Photo attached later. +1-452-963-7408 after 6pm. mia.foster432@yahoo.com,1
+70293,10458,51761,2026-02-03,return,low,Want to return 51761 — item damaged. Confirmation to jonah.kim458@outlook.com please. My number is +1-561-331-9175. Also CC ops+10458@pulsecart.com.,1
+70294,10336,51278,2026-05-12,delivery,medium,ETA missed on 51278. I already emailed marcus.nguyen336@outlook.com. Need a callback at +1-219-330-6153. Also CC ops+10336@pulsecart.com.,1
+70295,10177,50699,2026-01-29,,high,Return request order#50699. Kitchen item leaked. Contact: elena.silva177@outlook.com / +1-929-751-5261 Also CC ops+10177@pulsecart.com.,1
+70296,10149,50582,2026-02-05,return,low,Want to return 50582 — item damaged. Confirmation to marcus.patel149@yahoo.com please. My number is +1-580-703-9465.,1
+70297,10563,52163,2026-05-26,billing,low,Promo code failed on 52163. Please refund difference. ava.rao563@gmail.com +1-346-361-9657,1
+70298,10255,50971,2026-02-18,return,low,Want to return 50971 — item damaged. Confirmation to chris.patel255@outlook.com please. My number is +1-239-765-9578.,1
+70299,10297,51126,2026-04-09,return,low,Return request order#51126. Kitchen item leaked. Contact: nina.diaz297@outlook.com / +1-534-697-4595,1
+70300,10335,51270,2026-07-21,product_defect,low,Defect on 51270. Photo attached later. +1-508-452-2555 after 6pm. mia.morgan335@yahoo.com,0
+70301,10573,52201,2025-07-28,product_defect,high,FitBand 3 from order 52201 will not sync. Serial looks like SN-52201. Write to fatima.iyer573@gmail.com.,1
+70302,10292,51108,2026-05-21,return,high,Want to return 51108 — item damaged. Confirmation to fatima.morgan292@outlook.com please. My number is +1-994-326-4599.,1
+70303,10078,50305,2026-04-27,return,low,Want to return 50305 — item damaged. Confirmation to mateo.diaz78@pulsecart-mail.com please. My number is +1-510-870-7770.,1
+70304,10085,50346,2025-09-18,product_defect,medium,FitBand 3 from order 50346 will not sync. Serial looks like SN-50346. Write to anika.reyes85@yahoo.com.,1
+70305,10371,51418,2026-06-11,delivery,medium,ETA missed on 51418. I already emailed owen.chen371@outlook.com. Need a callback at 713-555-3403.,1
+70306,10405,51553,2026-05-30,delivery,high,ETA missed on 51553. I already emailed noah.foster405@outlook.com. Need a callback at +1-539-422-7404.,1
+70307,10608,52349,2025-07-22,return,medium,Want to return 52349 — item damaged. Confirmation to zara.patel608@pulsecart-mail.com please. My number is +1-653-349-9177. Also CC ops+10608@pulsecart.com.,1
+70308,10596,52297,2026-01-30,return,high,Return request order#52297. Kitchen item leaked. Contact: priya.bennett596@yahoo.com / +1-317-963-3541,0
+70309,10126,50502,2026-05-19,billing,low,Promo code failed on 50502. Please refund difference. leo.foster126@outlook.com +1-319-613-1687,1
+70310,10061,50245,2025-10-20,return,medium,Return request order#50245. Kitchen item leaked. Contact: nina.walker61@outlook.com / +1-740-714-7196 Also CC ops+10061@pulsecart.com.,1
+70311,10327,51249,2026-04-23,delivery,high,ETA missed on 51249. I already emailed zara.kim327@outlook.com. Need a callback at +1-839-319-6510.,1
+70312,10038,50138,2026-03-13,,medium,ETA missed on 50138. I already emailed ethan.hughes38@outlook.com. Need a callback at +1-925-488-6507.,1
+70313,10612,52361,2025-08-31,product_defect,medium,FitBand 3 from order 52361 will not sync. Serial looks like SN-52361. Write to noah.patel612@yahoo.com.,1
+70314,10407,51566,2026-05-07,return,low,Want to return 51566 — item damaged. Confirmation to NINA.IYER407@PULSECART-MAIL.COM please. My number is +1-770-347-5636.,1
+70315,10088,50355,2026-02-27,return,low,Want to return 50355 — item damaged. Confirmation to imani.chen88@outlook.com please. My number is +1-674-469-1653.,0
+70316,10067,50266,2026-07-21,return,low,Want to return 50266 — item damaged. Confirmation to sofia.brooks67@gmail.com please. My number is +1-724-598-5169.,1
+70317,10006,50027,2025-10-11,account,medium,Merge my accounts if possible. Primary kai.ali6@pulsecart-mail.com. Other phone +1-978-825-2179. Recent order 50027.,1
+70318,10667,52590,2026-02-09,return,medium,Return request order#52590. Kitchen item leaked. Contact: sofia.khan667@gmail.com / 868-987-7158,1
+70319,10810,53189,2025-05-30,product_defect,high,Defect on 53189. Photo attached later. +1-828-896-7935 after 6pm. liam.brooks810@yahoo.com,1
+70320,10678,52644,2025-07-12,delivery,medium,Package for order 52644 still not here. Reach me at +1-270-711-8755 or fatima.ali678@yahoo.com. Tracking looks stuck.,0
+70321,10375,51437,2026-08-12,account,high,Merge my accounts if possible. Primary elena.cole375@pulsecart-mail.com. Other phone +1-532-485-4620. Recent order 51437. Also CC ops+10375@pulsecart.com.,0
+70322,10530,52038,2025-07-22,billing,low,Promo code failed on 52038. Please refund difference. priya.brooks530@gmail.com 713-555-4543,0
+70323,10584,52253,2025-07-18,product_defect,low,Defect on 52253. Photo attached later. +1-904-737-5102 after 6pm. grace.iyer584@yahoo.com,1
+70324,10564,52166,2026-08-17,return,low,Return request order#52166. Kitchen item leaked. Contact: maya.ortiz564@outlook.com / +1-631-401-9809,1
+70325,10744,52917,2026-06-14,delivery,low,Package for order 52917 still not here. Reach me at +1-872-502-8408 or marcus.nguyen744@pulsecart-mail.com. Tracking looks stuck.,1
+70326,10689,52689,2026-01-13,return,low,Return request order#52689. Kitchen item leaked. Contact: hannah.khan689@gmail.com / 713-555-2462,1
+70327,10811,53196,2026-03-23,delivery,low,ETA missed on 53196. I already emailed arjun.foster811@gmail.com. Need a callback at +1-505-346-7237.,1
+70328,10666,52586,2026-07-22,return,low,Return request order#52586. Kitchen item leaked. Contact: DEV.KIM666@PULSECART-MAIL.COM / +1-836-508-8305 Also CC ops+10666@pulsecart.com.,1
+70329,10735,52874,2026-02-22,,medium,Package for order 52874 still not here. Reach me at +1-569-989-8500 or diego.hughes735@outlook.com. Tracking looks stuck.,1
+70330,10735,52875,2026-07-19,return,medium,Return request order#52875. Kitchen item leaked. Contact: diego.hughes735@outlook.com / +1-569-989-8500,1
+70331,10006,50029,2026-06-27,return,low,Return request order#50029. Kitchen item leaked. Contact: kai.ali6@pulsecart-mail.com / +1-978-825-2179,1
+70332,10353,51340,2026-01-26,delivery,low,ETA missed on 51340. I already emailed noah.chen353@gmail.com. Need a callback at +1-690-618-8187.,1
+70333,10069,50279,2026-01-14,product_defect,low,FitBand 3 from order 50279 will not sync. Serial looks like SN-50279. Write to elena.bennett69@yahoo.com.,0
+70334,10657,52552,2025-11-20,product_defect,low,Defect on 52552. Photo attached later. +1-560-360-9017 after 6pm. diego.reyes657@gmail.com,1
+70335,10287,51091,2026-06-30,return,medium,Want to return 51091 — item damaged. Confirmation to hannahnguyen287 at gmail.com please. My number is +1-346-381-5529.,1
+70336,10261,50994,2026-06-19,account,medium,Merge my accounts if possible. Primary ethan.bennett261@yahoo.com. Other phone 400-440-3605. Recent order 50994.,1
+70337,10320,51227,2025-05-19,product_defect,medium,FitBand 3 from order 51227 will not sync. Serial looks like SN-51227. Write to sara.iyer320@yahoo.com.,1
+70338,10662,52565,2026-02-24,billing,medium,Double charged for 52565. Last four of card on file. Mail receipt to leila.khan662@yahoo.com. Phone +1-406-617-6638.,1
+70339,10009,50039,2025-11-22,delivery,medium,Package for order 50039 still not here. Reach me at +1-492-756-9065 or amara.ortiz9@gmail.com. Tracking looks stuck.,1
+70340,10642,52479,2026-08-06,delivery,low,ETA missed on 52479. I already emailed kai.morgan642@gmail.com. Need a callback at +1-202-436-8664. Also CC ops+10642@pulsecart.com.,1
+70341,10675,52626,2025-08-07,product_defect,low,Defect on 52626. Photo attached later. +1-857-317-2394 after 6pm. amara.patel675@yahoo.com,1
+70342,10734,52868,2026-09-01,return,high,Want to return 52868 — item damaged. Confirmation to marcus.silva734@outlook.com please. My number is +1-911-582-1945.,1
+70343,10274,51037,2026-04-25,billing,low,Double charged for 51037. Last four of card on file. Mail receipt to ryan.bennett274@yahoo.com. Phone +1-981-753-7041. Also CC ops+10274@pulsecart.com.,1
+70344,10208,50820,2026-06-16,billing,high,Double charged for 50820. Last four of card on file. Mail receipt to ethan.diaz208@outlook.com. Phone +1-818-734-2080.,1
+70345,10292,51106,2025-12-13,billing,low,Double charged for 51106. Last four of card on file. Mail receipt to fatima.morgan292@outlook.com. Phone +1-994-326-4599.,1
+70346,10148,50575,2025-08-14,,low,Want to return 50575 — item damaged. Confirmation to NINA.CHEN148@GMAIL.COM please. My number is +1-873-706-5127.,0
+70347,10132,50528,2026-08-08,delivery,low,Package for order 50528 still not here. Reach me at +1-924-623-9638 or elena.shah132@yahoo.com. Tracking looks stuck.,1
+70348,10679,52645,2026-01-08,delivery,medium,ETA missed on 52645. I already emailed hannah.ali679@pulsecart-mail.com. Need a callback at +1-752-905-9883.,1
+70349,10651,52517,2026-06-29,delivery,high,Package for order 52517 still not here. Reach me at +1-527-510-2026 or priya.kim651@yahoo.com. Tracking looks stuck.,1
+70350,10121,50473,2025-12-18,delivery,low,Package for order 50473 still not here. Reach me at +1-430-627-6266 or owen.khan121@yahoo.com. Tracking looks stuck.,1
+70351,10770,53014,2026-06-16,billing,medium,Promo code failed on 53014. Please refund difference. amara.walker770@pulsecart-mail.com +1-400-997-2233 Also CC ops+10770@pulsecart.com.,1
+70352,10520,51991,2025-05-11,account,medium,Cannot reset password. Account email sofia.shah520@yahoo.com. I also use +1-988-919-4982. Ref 51991.,1
+70353,10783,53078,2025-12-07,account,low,Merge my accounts if possible. Primary priya.kim783@outlook.com. Other phone 381-640-7522. Recent order 53078.,1
+70354,10472,51817,2026-03-12,product_defect,low,FitBand 3 from order 51817 will not sync. Serial looks like SN-51817. Write to noah.reyes472@pulsecart-mail.com.,1
+70355,10738,52893,2025-07-19,product_defect,low,FitBand 3 from order 52893 will not sync. Serial looks like SN-52893. Write to fatimashah738 at gmail.com.,1
+70356,10146,50566,2026-04-15,delivery,low,Package for order 50566 still not here. Reach me at +1-308-530-7380 or anika.ali146@yahoo.com. Tracking looks stuck.,0
+70357,10684,52668,2025-05-16,product_defect,medium,Defect on 52668. Photo attached later. +1-970-719-8878 after 6pm. arjun.ali684@gmail.com,1
+70358,10286,51087,2025-08-14,delivery,high,ETA missed on 51087. I already emailed owen.reyes286@pulsecart-mail.com. Need a callback at +1-245-595-3831.,1
+70359,10182,50723,2025-08-17,product_defect,medium,FitBand 3 from order 50723 will not sync. Serial looks like SN-50723. Write to maya.cole182@yahoo.com.,0
+70360,10578,52219,2026-05-14,return,medium,Return request order#52219. Kitchen item leaked. Contact: dev.foster578@pulsecart-mail.com / +1-531-967-1403,1
+70361,10306,51158,2026-03-21,delivery,low,Package for order 51158 still not here. Reach me at +1-961-522-5094 or sara.silva306@yahoo.com. Tracking looks stuck. Also CC ops+10306@pulsecart.com.,1
+70362,10455,51750,2026-08-07,billing,high,Double charged for 51750. Last four of card on file. Mail receipt to amara.reyes455@outlook.com. Phone +1-559-825-7688.,1
+70363,10491,51884,2025-05-16,,medium,Return request order#51884. Kitchen item leaked. Contact: leo.khan491@yahoo.com / +1-599-222-6925 Also CC ops+10491@pulsecart.com.,1
+70364,10063,50255,2026-05-24,account,low,Merge my accounts if possible. Primary ava.chen63@pulsecart-mail.com. Other phone +1-282-406-1967. Recent order 50255.,1
+70365,10597,52300,2025-04-26,billing,medium,Double charged for 52300. Last four of card on file. Mail receipt to leo.brooks597@gmail.com. Phone +1-982-990-7028.,0
+70366,10640,52472,2025-03-22,billing,low,Promo code failed on 52472. Please refund difference. amara.bennett640@outlook.com +1-294-299-2085,1
+70367,10516,51978,2026-06-14,billing,low,Double charged for 51978. Last four of card on file. Mail receipt to kai.diaz516@gmail.com. Phone +1-378-472-7306.,1
+70368,10251,50953,2026-07-09,product_defect,medium,Defect on 50953. Photo attached later. +1-386-937-2844 after 6pm. ethan.rao251@outlook.com,1
+70369,10154,50599,2026-01-02,billing,low,Double charged for 50599. Last four of card on file. Mail receipt to ryan.hughes154@yahoo.com. Phone +1-695-876-8375.,1
+70370,10333,51265,2026-06-02,delivery,medium,ETA missed on 51265. I already emailed JONAH.REYES333@GMAIL.COM. Need a callback at +1-719-461-5390.,1
+70371,10157,50612,2025-04-03,delivery,medium,ETA missed on 50612. I already emailed anika.patel157@pulsecart-mail.com. Need a callback at +1-903-713-2523.,1
+70372,10082,50328,2026-01-02,delivery,low,Package for order 50328 still not here. Reach me at +1-329-862-2931 or hannahnguyen82 at gmail.com. Tracking looks stuck.,1
+70373,10741,52906,2025-07-23,return,medium,Want to return 52906 — item damaged. Confirmation to sofia.reyes741@pulsecart-mail.com please. My number is +1-873-351-9590.,1
+70374,10678,52641,2026-05-14,billing,low,Promo code failed on 52641. Please refund difference. fatima.ali678@yahoo.com +1-270-711-8755,1
+70375,10398,51526,2026-08-29,account,high,Merge my accounts if possible. Primary arjun.rao398@gmail.com. Other phone +1-604-478-2175. Recent order 51526. Also CC ops+10398@pulsecart.com.,1
+70376,10275,51040,2025-09-06,delivery,medium,ETA missed on 51040. I already emailed maya.ali275@pulsecart-mail.com. Need a callback at +1-220-738-2363. Also CC ops+10275@pulsecart.com.,1
+70377,10198,50794,2025-12-04,billing,medium,Promo code failed on 50794. Please refund difference. ryan.morgan198@outlook.com +1-631-239-8862 Also CC ops+10198@pulsecart.com.,1
+70378,10061,50246,2025-06-24,product_defect,high,Defect on 50246. Photo attached later. +1-740-714-7196 after 6pm. nina.walker61@outlook.com,1
+70379,10652,52522,2026-05-21,product_defect,medium,FitBand 3 from order 52522 will not sync. Serial looks like SN-52522. Write to ava.shah652@yahoo.com.,1
+70380,10596,52292,2025-10-18,,low,ETA missed on 52292. I already emailed priya.bennett596@yahoo.com. Need a callback at +1-317-963-3541.,1
+70381,10395,51511,2025-12-06,product_defect,medium,Defect on 51511. Photo attached later. +1-228-598-2583 after 6pm. zara.morgan395@outlook.com,1
+70382,10542,52090,2025-11-20,delivery,medium,Package for order 52090 still not here. Reach me at +1-462-940-2254 or mia.diaz542@outlook.com. Tracking looks stuck.,1
+70383,10129,50516,2025-09-07,delivery,low,ETA missed on 50516. I already emailed priya.bennett129@yahoo.com. Need a callback at +1-572-997-9406.,1
+70384,10559,52150,2026-04-28,delivery,high,Package for order 52150 still not here. Reach me at +1-434-357-1932 or owen.diaz559@yahoo.com. Tracking looks stuck.,1
+70385,10703,52749,2025-09-15,product_defect,low,Defect on 52749. Photo attached later. +1-295-941-3941 after 6pm. KAI.COLE703@GMAIL.COM Also CC ops+10703@pulsecart.com.,1
+70386,10523,52005,2025-08-28,product_defect,high,Defect on 52005. Photo attached later. +1-595-946-2914 after 6pm. nina.iyer523@yahoo.com,1
+70387,10450,51732,2026-04-25,delivery,medium,ETA missed on 51732. I already emailed chris.nguyen450@yahoo.com. Need a callback at +1-288-719-7361.,1
+70388,10658,52557,2026-08-20,delivery,low,Package for order 52557 still not here. Reach me at +1-775-681-6081 or leila.nguyen658@gmail.com. Tracking looks stuck.,1
+70389,10178,50706,2026-04-09,account,high,Cannot reset password. Account email diego.hughes178@pulsecart-mail.com. I also use +1-455-608-1071. Ref 50706.,1
+70390,10058,50230,2025-03-14,billing,medium,Promo code failed on 50230. Please refund difference. imani.foster58@yahoo.com 541-292-3717,1
+70391,10830,53261,2025-07-01,delivery,medium,Package for order 53261 still not here. Reach me at +1-923-900-2458 or ava.reyes830@yahoo.com. Tracking looks stuck.,1
+70392,10088,50359,2026-06-28,delivery,high,ETA missed on 50359. I already emailed imani.chen88@outlook.com. Need a callback at +1-674-469-1653.,1
+70393,10588,52269,2026-08-03,delivery,high,Package for order 52269 still not here. Reach me at +1-655-206-8573 or leo.diaz588@outlook.com. Tracking looks stuck.,1
+70394,10100,50393,2025-12-03,account,high,Cannot reset password. Account email dev.khan100@gmail.com. I also use +1-222-301-3736. Ref 50393.,1
+70395,10021,50083,2026-08-13,product_defect,low,FitBand 3 from order 50083 will not sync. Serial looks like SN-50083. Write to zara.nguyen21@outlook.com.,1
+70396,10479,51844,2026-02-27,delivery,medium,Package for order 51844 still not here. Reach me at +1-902-546-9260 or maya.reyes479@gmail.com. Tracking looks stuck. Also CC ops+10479@pulsecart.com.,1
+70397,10519,51990,2026-07-07,,low,FitBand 3 from order 51990 will not sync. Serial looks like SN-51990. Write to ava.walker519@yahoo.com.,1
+70398,10651,52516,2026-05-31,product_defect,low,Defect on 52516. Photo attached later. +1-527-510-2026 after 6pm. priya.kim651@yahoo.com,1
+70399,10734,52873,2025-09-05,billing,high,Promo code failed on 52873. Please refund difference. marcus.silva734@outlook.com +1-911-582-1945,1
+70400,10112,50442,2026-07-31,delivery,high,ETA missed on 50442. I already emailed kai.cole112@yahoo.com. Need a callback at +1-962-812-4823.,1
+70401,10085,50341,2025-09-26,billing,medium,Double charged for 50341. Last four of card on file. Mail receipt to anika.reyes85@yahoo.com. Phone +1-738-216-4137.,1
+70402,10799,53151,2026-05-20,delivery,low,Package for order 53151 still not here. Reach me at +1-320-441-5202 or sara.hughes799@gmail.com. Tracking looks stuck.,0
+70403,10033,50126,2026-01-27,delivery,medium,ETA missed on 50126. I already emailed owen.reyes33@yahoo.com. Need a callback at +1-686-432-3694.,0
+70404,10170,50671,2025-10-03,return,high,Return request order#50671. Kitchen item leaked. Contact: sara.bennett170@gmail.com / +1-705-856-3422,1
+70405,10531,52042,2025-06-30,product_defect,high,Defect on 52042. Photo attached later. +1-991-531-4975 after 6pm. arjun.brooks531@gmail.com,1
+70406,10311,51181,2026-07-05,product_defect,medium,FitBand 3 from order 51181 will not sync. Serial looks like SN-51181. Write to mateo.bennett311@pulsecart-mail.com.,0
+70407,10269,51020,2025-07-06,account,medium,Cannot reset password. Account email maya.diaz269@outlook.com. I also use +1-307-409-3571. Ref 51020.,1
+70408,10236,50905,2026-08-17,account,low,Cannot reset password. Account email priya.kim236@yahoo.com. I also use +1-443-851-1030. Ref 50905.,1
+70409,10321,51232,2026-03-25,product_defect,medium,FitBand 3 from order 51232 will not sync. Serial looks like SN-51232. Write to priya.shah321@yahoo.com.,1
+70410,10799,53146,2026-04-24,return,medium,Want to return 53146 — item damaged. Confirmation to sara.hughes799@gmail.com please. My number is +1-320-441-5202.,0
+70411,10644,52485,2026-07-25,delivery,low,ETA missed on 52485. I already emailed hannah.chen644@outlook.com. Need a callback at +1-362-205-9830.,1
+70412,10368,51401,2025-09-28,delivery,high,Package for order 51401 still not here. Reach me at +1-718-830-2607 or mia.morgan368@outlook.com. Tracking looks stuck.,1
+70413,10288,51093,2025-11-18,delivery,medium,Package for order 51093 still not here. Reach me at +1-657-903-6800 or leo.morgan288@yahoo.com. Tracking looks stuck.,1
+70414,10773,53033,2026-06-17,,low,Cannot reset password. Account email liam.diaz773@yahoo.com. I also use +1-866-722-3463. Ref 53033.,1
+70415,10795,53133,2026-02-13,return,low,Return request order#53133. Kitchen item leaked. Contact: chris.ali795@outlook.com / 713-555-7774 Also CC ops+10795@pulsecart.com.,1
+70416,10522,51994,2026-08-14,product_defect,low,FitBand 3 from order 51994 will not sync. Serial looks like SN-51994. Write to amara.ali522@yahoo.com.,1
+70417,10230,50889,2026-06-22,delivery,low,Package for order 50889 still not here. Reach me at +1-940-391-9495 or zara.foster230@outlook.com. Tracking looks stuck.,0
+70418,10523,52004,2026-01-20,product_defect,low,FitBand 3 from order 52004 will not sync. Serial looks like SN-52004. Write to nina.iyer523@yahoo.com.,1
+70419,10838,53298,2026-07-14,product_defect,low,FitBand 3 from order 53298 will not sync. Serial looks like SN-53298. Write to marcus.kim838@outlook.com.,1
+70420,10596,52296,2025-10-14,delivery,high,ETA missed on 52296. I already emailed priya.bennett596@yahoo.com. Need a callback at +1-317-963-3541.,0
+70421,10036,50136,2025-04-21,account,low,Cannot reset password. Account email fatima.diaz36@gmail.com. I also use +1-403-922-5125. Ref 50136.,1
+70422,10020,50081,2025-11-24,product_defect,low,Defect on 50081. Photo attached later. +1-989-898-7049 after 6pm. kai.rao20@outlook.com,0
+70423,10316,51206,2025-11-07,account,low,Merge my accounts if possible. Primary noah.walker316@yahoo.com. Other phone +1-483-848-5012. Recent order 51206.,0
+70424,10349,51325,2026-08-28,delivery,low,ETA missed on 51325. I already emailed ryan.chen349@pulsecart-mail.com. Need a callback at +1-362-481-2684.,1
+70425,10434,51664,2025-10-11,delivery,medium,ETA missed on 51664. I already emailed jonah.ortiz434@outlook.com. Need a callback at +1-503-696-7897.,1
+70426,10588,52268,2025-10-10,delivery,medium,Package for order 52268 still not here. Reach me at +1-655-206-8573 or leo.diaz588@outlook.com. Tracking looks stuck.,1
+70427,10616,52371,2026-03-07,product_defect,high,FitBand 3 from order 52371 will not sync. Serial looks like SN-52371. Write to nina.diaz616@gmail.com.,1
+70428,10024,50095,2026-03-01,delivery,low,Package for order 50095 still not here. Reach me at +1-754-967-3288 or mateo.morgan24@yahoo.com. Tracking looks stuck.,0
+70429,10362,51375,2026-05-13,delivery,high,Package for order 51375 still not here. Reach me at +1-201-482-2806 or marcus.brooks362@gmail.com. Tracking looks stuck.,1
+70430,10538,52066,2025-12-14,delivery,low,ETA missed on 52066. I already emailed liam.patel538@pulsecart-mail.com. Need a callback at +1-728-538-4855.,1
+70431,10150,50588,2026-06-11,,medium,Package for order 50588 still not here. Reach me at +1-370-659-3083 or marcus.chen150@pulsecart-mail.com. Tracking looks stuck. Also CC ops+10150@pulsecart.com.,1
+70432,10662,52566,2026-05-31,return,low,Want to return 52566 — item damaged. Confirmation to leila.khan662@yahoo.com please. My number is +1-406-617-6638.,1
+70433,10717,52801,2026-06-25,account,high,Merge my accounts if possible. Primary mateo.khan717@gmail.com. Other phone +1-658-496-7347. Recent order 52801.,1
+70434,10531,52046,2025-06-12,return,high,Return request order#52046. Kitchen item leaked. Contact: arjun.brooks531@gmail.com / +1-991-531-4975 Also CC ops+10531@pulsecart.com.,1
+70435,10352,51337,2026-07-18,delivery,low,Package for order 51337 still not here. Reach me at +1-571-786-2429 or leila.shah352@pulsecart-mail.com. Tracking looks stuck.,1
+70436,10820,53224,2026-04-06,billing,low,Promo code failed on 53224. Please refund difference. chrisfoster820 at gmail.com +1-399-225-5192,1
+70437,10295,51115,2026-01-26,billing,high,Double charged for 51115. Last four of card on file. Mail receipt to maya.cole295@gmail.com. Phone +1-553-548-6832.,1
+70438,10617,52379,2025-03-02,account,medium,Merge my accounts if possible. Primary leila.kim617@yahoo.com. Other phone +1-923-457-6445. Recent order 52379.,1
+70439,10461,51775,2025-11-23,return,medium,Want to return 51775 — item damaged. Confirmation to nina.foster461@pulsecart-mail.com please. My number is +1-329-592-2249.,1
+70440,10704,52762,2025-09-15,return,medium,Want to return 52762 — item damaged. Confirmation to sara.shah704@yahoo.com please. My number is +1-456-946-6970.,0
+70441,10087,50351,2026-07-27,delivery,medium,ETA missed on 50351. I already emailed noah.rao87@yahoo.com. Need a callback at 760-412-4465.,0
+70442,10135,50539,2026-03-11,delivery,medium,Package for order 50539 still not here. Reach me at +1-415-305-4130 or hannah.morgan135@gmail.com. Tracking looks stuck.,1
+70443,10811,53194,2025-12-28,account,medium,Cannot reset password. Account email arjun.foster811@gmail.com. I also use +1-505-346-7237. Ref 53194.,1
+70444,10699,52732,2026-06-22,billing,low,Double charged for 52732. Last four of card on file. Mail receipt to noah.foster699@yahoo.com. Phone +1-498-362-5446.,1
+70445,10308,51168,2026-05-30,billing,medium,Double charged for 51168. Last four of card on file. Mail receipt to owen.rao308@yahoo.com. Phone +1-383-630-6394.,1
+70446,10699,52734,2026-01-09,product_defect,medium,Defect on 52734. Photo attached later. +1-498-362-5446 after 6pm. noah.foster699@yahoo.com,1
+70447,10009,50037,2025-10-19,account,low,Merge my accounts if possible. Primary amara.ortiz9@gmail.com. Other phone +1-492-756-9065. Recent order 50037.,1
+70448,10332,51264,2026-01-03,,low,Defect on 51264. Photo attached later. +1-550-744-3594 after 6pm. diego.khan332@pulsecart-mail.com Also CC ops+10332@pulsecart.com.,0
+70449,10774,53036,2026-06-29,return,low,Want to return 53036 — item damaged. Confirmation to leila.ortiz774@gmail.com please. My number is +1-937-335-6028. Also CC ops+10774@pulsecart.com.,1
+70450,10848,53346,2026-08-21,billing,high,Double charged for 53346. Last four of card on file. Mail receipt to elena.shah848@gmail.com. Phone 713-555-6230.,1
+70451,10218,50853,2026-05-29,delivery,low,Package for order 50853 still not here. Reach me at +1-696-777-2767 or owen.iyer218@gmail.com. Tracking looks stuck.,1
+70452,10266,51010,2025-09-21,delivery,medium,ETA missed on 51010. I already emailed jonah.brooks266@gmail.com. Need a callback at +1-651-755-9524.,0
+70453,10831,53263,2026-01-27,product_defect,medium,Defect on 53263. Photo attached later. +1-275-381-2978 after 6pm. mateo.ortiz831@outlook.com Also CC ops+10831@pulsecart.com.,1
+70454,10012,50050,2026-06-16,delivery,low,Package for order 50050 still not here. Reach me at +1-455-372-9846 or chris.morgan12@pulsecart-mail.com. Tracking looks stuck.,0
+70455,10810,53187,2026-08-15,return,low,Return request order#53187. Kitchen item leaked. Contact: liam.brooks810@yahoo.com / +1-828-896-7935,1
+70456,10297,51127,2026-03-12,return,medium,Want to return 51127 — item damaged. Confirmation to nina.diaz297@outlook.com please. My number is +1-534-697-4595. Also CC ops+10297@pulsecart.com.,0
+70457,10046,50174,2026-08-30,billing,low,Double charged for 50174. Last four of card on file. Mail receipt to mia.kim46@outlook.com. Phone +1-940-286-7888.,1
+70458,10534,52053,2026-05-29,return,medium,Want to return 52053 — item damaged. Confirmation to diego.bennett534@outlook.com please. My number is +1-547-478-5044.,1
+70459,10350,51331,2025-06-09,billing,high,Promo code failed on 51331. Please refund difference. fatima.chen350@yahoo.com +1-589-308-7103,1
+70460,10608,52346,2025-09-30,product_defect,low,FitBand 3 from order 52346 will not sync. Serial looks like SN-52346. Write to zara.patel608@pulsecart-mail.com.,1
+70461,10692,52695,2025-07-22,product_defect,high,FitBand 3 from order 52695 will not sync. Serial looks like SN-52695. Write to anika.reyes692@outlook.com.,1
+70462,10366,51393,2026-05-06,account,medium,Cannot reset password. Account email dev.silva366@pulsecart-mail.com. I also use +1-986-286-6005. Ref 51393.,1
+70463,10387,51478,2026-01-26,delivery,medium,ETA missed on 51478. I already emailed mia.khan387@pulsecart-mail.com. Need a callback at +1-764-584-7639.,1
+70464,10473,51821,2026-01-15,billing,medium,Double charged for 51821. Last four of card on file. Mail receipt to jonah.iyer473@outlook.com. Phone +1-289-957-1599.,1
+70465,10084,50334,2025-09-18,,low,Package for order 50334 still not here. Reach me at +1-857-225-2773 or imani.reyes84@gmail.com. Tracking looks stuck.,0
+70466,10215,50842,2026-04-19,delivery,medium,Package for order 50842 still not here. Reach me at +1-639-298-4953 or leila.khan215@yahoo.com. Tracking looks stuck.,1
+70467,10770,53011,2025-11-14,delivery,medium,ETA missed on 53011. I already emailed amara.walker770@pulsecart-mail.com. Need a callback at +1-400-997-2233.,1
+70468,10106,50418,2026-07-27,billing,medium,Promo code failed on 50418. Please refund difference. mateo.bennett106@outlook.com 713-555-5357,1
+70469,10004,50017,2026-06-02,product_defect,low,FitBand 3 from order 50017 will not sync. Serial looks like SN-50017. Write to arjun.walker4@gmail.com.,1
+70470,10430,51647,2026-06-09,account,medium,Merge my accounts if possible. Primary owen.diaz430@outlook.com. Other phone +1-343-394-2151. Recent order 51647.,1
+70471,10378,51451,2025-12-28,billing,medium,Double charged for 51451. Last four of card on file. Mail receipt to elena.rao378@yahoo.com. Phone +1-311-745-4920. Also CC ops+10378@pulsecart.com.,1
+70472,10808,53183,2025-11-22,return,low,Want to return 53183 — item damaged. Confirmation to grace.shah808@pulsecart-mail.com please. My number is +1-780-505-3220.,1
+70473,10357,51357,2026-02-06,product_defect,low,FitBand 3 from order 51357 will not sync. Serial looks like SN-51357. Write to anika.rao357@outlook.com.,0
+70474,10285,51081,2026-06-13,delivery,low,ETA missed on 51081. I already emailed owen.patel285@gmail.com. Need a callback at +1-911-669-7539.,0
+70475,10449,51723,2026-04-28,delivery,low,Package for order 51723 still not here. Reach me at +1-275-315-1346 or nina.rao449@gmail.com. Tracking looks stuck.,0
+70476,10214,50834,2026-02-22,return,low,Return request order#50834. Kitchen item leaked. Contact: marcus.ortiz214@outlook.com / +1-314-300-6822,1
+70477,10606,52342,2025-11-20,account,high,Merge my accounts if possible. Primary leila.ortiz606@pulsecart-mail.com. Other phone +1-294-724-6539. Recent order 52342.,1
+70478,10788,53103,2025-12-04,billing,low,Double charged for 53103. Last four of card on file. Mail receipt to zara.brooks788@outlook.com. Phone +1-449-562-9204.,1
+70479,10120,50472,2025-05-19,return,medium,Want to return 50472 — item damaged. Confirmation to priya.hughes120@gmail.com please. My number is +1-790-888-5064.,1
+70480,10522,51998,2026-03-07,account,low,Cannot reset password. Account email amara.ali522@yahoo.com. I also use 303-313-2737. Ref 51998.,0
+70481,10429,51635,2026-08-13,return,low,Return request order#51635. Kitchen item leaked. Contact: chris.walker429@outlook.com / +1-337-732-2501,1
+70482,10669,52603,2026-02-08,,medium,Want to return 52603 — item damaged. Confirmation to grace.iyer669@gmail.com please. My number is +1-883-556-6168. Also CC ops+10669@pulsecart.com.,0
+70483,10546,52107,2026-01-28,return,medium,Want to return 52107 — item damaged. Confirmation to noah.kim546@pulsecart-mail.com please. My number is +1-877-879-8235.,1
+70484,10289,51099,2026-04-30,delivery,low,Package for order 51099 still not here. Reach me at +1-508-868-8557 or mia.ali289@yahoo.com. Tracking looks stuck.,1
+70485,10447,51710,2026-04-02,delivery,low,Package for order 51710 still not here. Reach me at +1-424-516-7456 or owen.ali447@pulsecart-mail.com. Tracking looks stuck.,1
+70486,10524,52009,2026-02-28,delivery,low,Package for order 52009 still not here. Reach me at +1-573-456-9304 or grace.brooks524@gmail.com. Tracking looks stuck.,1
+70487,10435,51668,2026-08-30,product_defect,medium,Defect on 51668. Photo attached later. 906-975-5951 after 6pm. ryan.brooks435@gmail.com,1
+70488,10278,51053,2025-10-12,delivery,low,ETA missed on 51053. I already emailed imani.silva278@pulsecart-mail.com. Need a callback at +1-832-740-2443.,1
+70489,10575,52212,2026-04-11,return,low,Return request order#52212. Kitchen item leaked. Contact: marcus.ortiz575@pulsecart-mail.com / +1-211-450-5525,0
+70490,10494,51895,2026-08-10,delivery,low,Package for order 51895 still not here. Reach me at +1-264-845-8806 or noah.brooks494@gmail.com. Tracking looks stuck.,1
+70491,10653,52528,2025-11-21,product_defect,high,Defect on 52528. Photo attached later. +1-284-445-3965 after 6pm. ava.nguyen653@gmail.com,1
+70492,10804,53163,2026-07-25,account,medium,Cannot reset password. Account email imani.diaz804@yahoo.com. I also use +1-259-752-7820. Ref 53163.,1
+70493,10781,53064,2025-11-18,product_defect,low,Defect on 53064. Photo attached later. +1-261-464-8403 after 6pm. nina.morgan781@gmail.com,1
+70494,10625,52420,2025-08-17,delivery,medium,Package for order 52420 still not here. Reach me at +1-297-481-1560 or grace.khan625@gmail.com. Tracking looks stuck.,0
+70495,10761,52974,2025-12-31,product_defect,low,Defect on 52974. Photo attached later. +1-655-555-8683 after 6pm. hannah.nguyen761@outlook.com,1
+70496,10808,53182,2026-03-30,product_defect,medium,Defect on 53182. Photo attached later. +1-780-505-3220 after 6pm. grace.shah808@pulsecart-mail.com,1
+70497,10022,50085,2026-01-24,product_defect,low,FitBand 3 from order 50085 will not sync. Serial looks like SN-50085. Write to liam.diaz22@yahoo.com. Also CC ops+10022@pulsecart.com.,1
+70498,10254,50969,2025-10-30,return,medium,Return request order#50969. Kitchen item leaked. Contact: noah.khan254@pulsecart-mail.com / +1-205-761-4345,1
+70499,10771,53023,2026-04-22,,low,Want to return 53023 — item damaged. Confirmation to zara.cole771@yahoo.com please. My number is +1-735-362-7764.,1
+70500,10758,52965,2026-01-31,return,low,Want to return 52965 — item damaged. Confirmation to priya.silva758@pulsecart-mail.com please. My number is +1-680-979-3453.,1
+70501,10694,52708,2025-10-31,return,medium,Want to return 52708 — item damaged. Confirmation to anika.cole694@yahoo.com please. My number is +1-456-881-3749.,1
+70502,10752,52942,2026-08-26,return,low,Return request order#52942. Kitchen item leaked. Contact: kai.chen752@outlook.com / +1-899-580-5960,1
+70503,10654,52533,2025-09-14,delivery,medium,Package for order 52533 still not here. Reach me at +1-431-428-6325 or mateo.ortiz654@gmail.com. Tracking looks stuck.,1
+70504,10490,51883,2026-01-05,return,medium,Return request order#51883. Kitchen item leaked. Contact: arjun.chen490@yahoo.com / +1-608-263-9121,0
+70505,10783,53077,2026-06-05,delivery,high,ETA missed on 53077. I already emailed priya.kim783@outlook.com. Need a callback at 381-640-7522.,1
+70506,10314,51194,2026-02-05,delivery,medium,Package for order 51194 still not here. Reach me at +1-607-275-4376 or chris.bennett314@pulsecart-mail.com. Tracking looks stuck.,1
+70507,10084,50333,2025-09-09,delivery,low,ETA missed on 50333. I already emailed imani.reyes84@gmail.com. Need a callback at +1-857-225-2773.,0
+70508,10087,50352,2026-03-13,delivery,low,Package for order 50352 still not here. Reach me at 760-412-4465 or noah.rao87@yahoo.com. Tracking looks stuck.,1
+70509,10275,51039,2026-05-10,return,medium,Return request order#51039. Kitchen item leaked. Contact: maya.ali275@pulsecart-mail.com / +1-220-738-2363,1
+70510,10837,53296,2026-01-06,product_defect,medium,FitBand 3 from order 53296 will not sync. Serial looks like SN-53296. Write to priya.chen837@outlook.com.,1
+70511,10081,50322,2025-10-10,product_defect,medium,FitBand 3 from order 50322 will not sync. Serial looks like SN-50322. Write to leo.nguyen81@yahoo.com.,0
+70512,10459,51763,2025-11-05,delivery,low,Package for order 51763 still not here. Reach me at +1-892-567-8525 or owen.ortiz459@pulsecart-mail.com. Tracking looks stuck.,1
+70513,10229,50886,2026-02-24,account,medium,Cannot reset password. Account email anika.reyes229@outlook.com. I also use +1-549-387-2985. Ref 50886.,1
+70514,10601,52322,2025-11-26,product_defect,low,FitBand 3 from order 52322 will not sync. Serial looks like SN-52322. Write to owen.foster601@yahoo.com.,1
+70515,10737,52887,2026-03-24,account,high,Merge my accounts if possible. Primary amara.bennett737@pulsecart-mail.com. Other phone +1-935-904-3156. Recent order 52887.,1
+70516,10054,50206,2025-11-16,,low,Return request order#50206. Kitchen item leaked. Contact: mia.nguyen54@pulsecart-mail.com / +1-762-204-9877 Also CC ops+10054@pulsecart.com.,1
+70517,10032,50125,2026-04-25,return,medium,Want to return 50125 — item damaged. Confirmation to mia.reyes32@yahoo.com please. My number is +1-380-480-7180. Also CC ops+10032@pulsecart.com.,1
+70518,10778,53050,2026-06-05,account,low,Cannot reset password. Account email priya.kim778@yahoo.com. I also use +1-823-419-5156. Ref 53050.,1
+70519,10733,52863,2025-08-30,product_defect,low,Defect on 52863. Photo attached later. +1-821-553-4965 after 6pm. arjun.shah733@outlook.com,1

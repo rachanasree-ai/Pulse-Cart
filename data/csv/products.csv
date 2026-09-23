@@ -1,0 +1,16 @@
+product_id,sku,product_name,category,unit_cost,list_price
+1001,PC-AUD-1001,PulseBuds X,Audio,48.95,89.0
+1002,PC-AUD-1002,Harbor Headphones,Audio,81.95,149.0
+1003,PC-AUD-1003,Desk Speaker Mini,Audio,32.45,59.0
+1004,PC-WEA-1004,FitBand 3,Wearables,43.45,79.0
+1005,PC-WEA-1005,SleepRing Air,Wearables,70.95,129.0
+1006,PC-WEA-1006,PulseWatch S,Wearables,109.45,199.0
+1007,PC-HOM-1007,AirPurifier Compact,Home,65.45,119.0
+1008,PC-HOM-1008,Smart Plug 4-pack,Home,21.45,39.0
+1009,PC-HOM-1009,Desk Lamp Pro,Home,37.95,69.0
+1010,PC-ACC-1010,USB-C Hub,Accessories,15.95,29.0
+1011,PC-ACC-1011,Laptop Sleeve 14,Accessories,13.2,24.0
+1012,PC-ACC-1012,Cable Kit,Accessories,8.25,15.0
+1013,PC-KIT-1013,BrewGo Travel Mug,Kitchen,18.7,34.0
+1014,PC-KIT-1014,Blender Nano,Kitchen,48.95,89.0
+1015,PC-KIT-1015,MealPrep Set,Kitchen,26.95,49.0
