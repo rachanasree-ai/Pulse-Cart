@@ -1,9 +1,5 @@
 # PulseCart Customer Intelligence case
 
-This README documents how to rerun the analysis in `analysis.ipynb`, the environment it needs, the answers to the five business questions, and known limitations.
-
----
-
 ## 1. How to Rerun
 
 1. Place the following files under `data/csv/` relative to the notebook:
